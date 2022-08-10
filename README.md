@@ -9,7 +9,7 @@
 <p align="center"><strong>Semester project</strong>
 
 <br/>
-<div align="center"><img src="demo.gif"></img></div>
+
 <h2>About</h2>
 The financial credibility of a person is a factor used to determine whether a loan should be approved or not, and this is quantified by a “credit score”, which is calculated using a variety of factors, including past performance on debt obligations, profiling, amongst others. Machine learning has been widely applied to automate the development of effective credit scoring models over the years. In this project you shall assemble in teams to work on a credit scoring problem.
 
